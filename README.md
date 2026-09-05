@@ -5,7 +5,7 @@
   </h1>
 
   <p>
-    <strong>Ingeniera en Informática • Backend Developer • .NET • Cloud • Software Engineering</strong>
+    <strong>Ingeniera en Informática • .NET • Cloud • Software Engineering</strong>
   </p>
 
   <p>
