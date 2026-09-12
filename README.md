@@ -26,22 +26,6 @@
 
 ## 👩🏻‍💻 Sobre mí
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ¡Hola! Soy Jacqueline Denise, Ingeniera en Informática y               │
-│  desarrolladora de software enfocada principalmente en backend.         │
-│                                                                         │
-│  Me interesa construir sistemas que no solo funcionen, sino que         │
-│  sean mantenibles, seguros, escalables y razonables de operar.          │
-│                                                                         │
-│  Mi ecosistema principal gira alrededor de C#, .NET, APIs REST,         │
-│  SQL Server, Python para automatizaciones y Microsoft Azure,            |
-|  aunque también exploro Java/Spring Boot actualmente.                   |
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
 🎓 **Ingeniera en Informática titulada**
 
 💻 Enfocada en **desarrollo backend y diseño de APIs**
